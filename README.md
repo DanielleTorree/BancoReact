@@ -12,6 +12,7 @@
     <img alt="" src="./src/images/img2.jpg" width="250" height="500"/></br>
     <img alt="" src="./src/images/img3.jpg" width="250" height="500"/>
     <img alt="" src="./src/images/img4.jpg" width="250" height="500"/>
+    <img alt="" src="./src/images/img5.jpg" width="250" height="500"/>
 </div>
 
 ### Tecnologia utilizada
